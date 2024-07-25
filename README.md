@@ -39,5 +39,5 @@ npm run dev
 
 ## 1. **Clone the Repository**
 
-git clone https://github.com/gardenfi/demo-app
+git clone (https://github.com/Elangovan0101/SwapNow--Garden-sdk.git)
 
